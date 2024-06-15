@@ -1,0 +1,17 @@
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.deps.json
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.csproj.AssemblyReference.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.AssemblyInfoInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.AssemblyInfo.cs
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\Employee.C464E512.Up2Date
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\refint\EmployeeConsoleEFCodeFirst.Service.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Service.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary2\obj\Debug\net8.0\ref\EmployeeConsoleEFCodeFirst.Service.dll

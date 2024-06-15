@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary1\\EmployeeConsoleEFCodeFirst.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary1\\EmployeeConsoleEFCodeFirst.Data.csproj",
+        "projectName": "EmployeeConsoleEFCodeFirst.Data",
+        "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary1\\EmployeeConsoleEFCodeFirst.Data.csproj",
+        "packagesPath": "C:\\Users\\lakshmi.m\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lakshmi.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary2\\EmployeeConsoleEFCodeFirst.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary2\\EmployeeConsoleEFCodeFirst.Service.csproj",
+        "projectName": "EmployeeConsoleEFCodeFirst.Service",
+        "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary2\\EmployeeConsoleEFCodeFirst.Service.csproj",
+        "packagesPath": "C:\\Users\\lakshmi.m\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lakshmi.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary1\\EmployeeConsoleEFCodeFirst.Data.csproj": {
+                "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary1\\EmployeeConsoleEFCodeFirst.Data.csproj"
+              },
+              "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\EmployeeConsoleEFCodeFirst.Models.csproj": {
+                "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\EmployeeConsoleEFCodeFirst.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst.csproj",
+        "projectName": "EmployeeConsoleEFCodeFirst",
+        "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst.csproj",
+        "packagesPath": "C:\\Users\\lakshmi.m\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\EmployeeConsoleEFCodeFirst\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lakshmi.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary2\\EmployeeConsoleEFCodeFirst.Service.csproj": {
+                "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\ClassLibrary2\\EmployeeConsoleEFCodeFirst.Service.csproj"
+              },
+              "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\EmployeeConsoleEFCodeFirst.Models.csproj": {
+                "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\EmployeeConsoleEFCodeFirst.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\EmployeeConsoleEFCodeFirst.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\EmployeeConsoleEFCodeFirst.Models.csproj",
+        "projectName": "EmployeeConsoleEFCodeFirst.Models",
+        "projectPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\EmployeeConsoleEFCodeFirst.Models.csproj",
+        "packagesPath": "C:\\Users\\lakshmi.m\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeConsoleEFCodeFirst\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lakshmi.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

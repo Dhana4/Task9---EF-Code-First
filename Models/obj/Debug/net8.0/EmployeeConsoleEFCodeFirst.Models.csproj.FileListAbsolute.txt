@@ -1,0 +1,11 @@
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.deps.json
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.AssemblyInfoInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.AssemblyInfo.cs
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\refint\EmployeeConsoleEFCodeFirst.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Models.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\Models\obj\Debug\net8.0\ref\EmployeeConsoleEFCodeFirst.Models.dll

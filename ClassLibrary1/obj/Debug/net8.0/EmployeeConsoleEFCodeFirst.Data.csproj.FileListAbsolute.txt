@@ -1,0 +1,14 @@
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.deps.json
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.runtimeconfig.json
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\bin\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.csproj.AssemblyReference.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.AssemblyInfoInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.AssemblyInfo.cs
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\refint\EmployeeConsoleEFCodeFirst.Data.dll
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\EmployeeConsoleEFCodeFirst.Data.genruntimeconfig.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFCodeFirst\ClassLibrary1\obj\Debug\net8.0\ref\EmployeeConsoleEFCodeFirst.Data.dll
